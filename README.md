@@ -12,6 +12,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/amiayweb/Hytale-F2P?style=social)](https://github.com/amiayweb/Hytale-F2P/network/members)
 
 ⭐ **If you find this project useful, please give it a star!** ⭐
+
 🛑 **Found a problem? Open an issue! I’m on Windows, so I can’t test on macOS or Linux.** 🛑
 
 </div>
