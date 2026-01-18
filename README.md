@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Version-1.0.2-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)
 
